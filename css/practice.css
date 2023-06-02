@@ -1,16 +1,20 @@
 .main-header{
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 /*pagina inicial modificaciones*/
 #container .wrap-container{
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 .item{
 	width: 100%;
+	height: auto;
 }
-
+#owl-travel{
+	width: 100%;
+	height: auto;
+}
 .pruebas{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto auto auto;	
@@ -59,13 +63,13 @@
 	left: 25%;
 }
 footer{
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 25%;
+	margin-right: 25%;
 
 }
 .final {
 	display: grid;
-	grid-template-columns:  auto auto auto 15%;
+	grid-template-columns:  auto auto auto 10%;
 }
 .box-image{
 	background-image: url(./images/15.jpg);
@@ -74,4 +78,32 @@ footer{
 	width: 50%;
 	height: auto;
 }
-.
+.box-image{
+	background-image: url(./images/16.jpg);
+}
+.imagen2-3{
+	width: 50%;
+	height: auto;
+}
+.contacto{
+	display: grid;
+	grid-template-columns: auto auto auto ;
+}
+.col-9-3{
+grid-column-start:1;
+margin-right: 8%;
+}
+.col-8-3{
+	grid-column-start:2;
+	margin-right:8%;
+	}
+.col-7-3{
+	grid-column-start:3;
+}
+#intento{
+	display: grid;
+	grid-template-columns: auto auto auto ;
+}
+#boton-contacto{
+	grid-column-start:2;
+}
