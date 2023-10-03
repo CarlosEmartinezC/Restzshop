@@ -1,5 +1,6 @@
-# CriptoD
-![image](https://github.com/CarlosEmartinezC/Restzshop/assets/133069933/3581f6b3-8fdf-41ae-9535-92e1b98aae15)
+# Restzshop
+![image](https://github.com/CarlosEmartinezC/Restzshop/assets/133069933/79057870-05d3-43f8-a6aa-a3e7df69ddd2)
+
 
 ## Despliegue:
 
