@@ -8,7 +8,7 @@ https://carlosemartinezc.github.io/Restzshop/
 
 ## Descripción del proyecto
 
-En esta pagina podrás mirar el valor de cada moneda digital, podrás encontrar la capitalización y también podrás realizar una comparación entre ellas.
+En esta landing page se encontrará el diseño de la pagina de ropa zshop.
 
 ## Estado del proyecto
 
@@ -16,8 +16,8 @@ En esta pagina podrás mirar el valor de cada moneda digital, podrás encontrar 
  
 ## Stack
 
- - React
- - Api coins
+ - HTML
+ - CSS
 
 ## Acceso al proyecto
 
